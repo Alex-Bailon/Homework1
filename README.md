@@ -8,7 +8,8 @@ Given the code I was able to make the webpage accessible by doing the following:
 * Changed the title of the page from "website" to the companies name "Horiseon"
 * Changed all div elements to the appropriate HTML semantic elements(ie: header, nav, section, footer)
 * Added alt attributes to all image elements
-* Insured all heading attributes fell in sequential oreder.
+* Insured all heading attributes fell in sequential oreder
+* Insured all webpage links were working
 * On the style sheet, changed any div style to the corresponding HTML semantic elements
 
 # Conclusion
