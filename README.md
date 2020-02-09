@@ -1,5 +1,5 @@
 # Code Refactor
-# Northwestern Coding BootCamp
+## Northwestern Coding BootCamp
 
 # Summary
 
@@ -11,6 +11,12 @@ Given the code I was able to make the webpage accessible by doing the following:
 * Insured all heading attributes fell in sequential oreder
 * Insured all webpage links were working
 * On the style sheet, changed any div style to the corresponding HTML semantic elements
+
+# Depolyed Page
+
+![Homepage1](./assets/images/Finish1.png)
+
+![Homepage2](./assets/images/Finish2.png)
 
 # Conclusion
 
